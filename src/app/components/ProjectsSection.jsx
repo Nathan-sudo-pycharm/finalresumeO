@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Slef Navigating Car ",
     description: "Built using Embedded C ",
-    image: "/images/projects/1.png",
+    image: "/images/projects/roborover.jpg",
     tag: ["All", "Web"],
     gitUrl:
       "https://github.com/Nathan-sudo-pycharm/Arduino_code/blob/main/finalobstacle.ino",
