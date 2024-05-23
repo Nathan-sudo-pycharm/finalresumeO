@@ -35,7 +35,6 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Palo Alto Networks Cybersecurity Academy</li>
         <li>Introduction to Data Science - Great Learning Academy (Online)</li>
         <li>
           IBM Certificate Course in "What is Data Science?" - Coursera (Online)
